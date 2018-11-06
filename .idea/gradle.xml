@@ -8,11 +8,11 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/GRouter" />
+            <option value="$PROJECT_DIR$/Test-One" />
+            <option value="$PROJECT_DIR$/Test-Three" />
+            <option value="$PROJECT_DIR$/Test-Two" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/one" />
-            <option value="$PROJECT_DIR$/router" />
-            <option value="$PROJECT_DIR$/three" />
-            <option value="$PROJECT_DIR$/two" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

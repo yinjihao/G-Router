@@ -27,8 +27,8 @@ dependencies {
     androidTestImplementation 'com.android.support.test:runner:1.0.2'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
 //集成进来
-    implementation project(path: ':router')
-    implementation project(path: ':one')
-    implementation project(path: ':two')
-    implementation project(path: ':three')
+    implementation project(path: ':GRouter')
+    implementation project(path: ':Test-One')
+    implementation project(path: ':Test-Two')
+    implementation project(path: ':Test-Three')
 }
