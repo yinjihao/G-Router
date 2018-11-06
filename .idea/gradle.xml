@@ -9,6 +9,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/GRouter" />
+            <option value="$PROJECT_DIR$/GRouter-Annotation" />
             <option value="$PROJECT_DIR$/Test-One" />
             <option value="$PROJECT_DIR$/Test-Three" />
             <option value="$PROJECT_DIR$/Test-Two" />
