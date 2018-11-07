@@ -25,7 +25,6 @@ import java.lang.annotation.Target;
 //-SOURCE 存在源码中，编译阶段被丢弃
 //-CLASS 默认级别，存在类文件中，VM加载时将丢弃
 //-RUNTIME 运行时，存在于运行时，可以通过反射API获取
-
 public @interface RouterPage {
     /**
      * path
