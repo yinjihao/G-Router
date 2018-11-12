@@ -1,1 +1,1 @@
-include ':app', ':Test-One', ':Test-Two', ':Test-Three', ':GRouter', ':GRouter-Annotation'
+include ':app', ':Test-One', ':Test-Two', ':Test-Three', ':Router', ':annotation', ':compiler'

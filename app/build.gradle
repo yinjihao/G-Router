@@ -28,8 +28,8 @@ dependencies {
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
 //集成进来
 
-    implementation project(path: ':GRouter')
-    api project(path: ':GRouter-Annotation')
+
+    annotationProcessor project(path: ':compiler')
 
     implementation project(path: ':Test-One')
     implementation project(path: ':Test-Two')

@@ -8,12 +8,13 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/GRouter" />
-            <option value="$PROJECT_DIR$/GRouter-Annotation" />
+            <option value="$PROJECT_DIR$/Router" />
             <option value="$PROJECT_DIR$/Test-One" />
             <option value="$PROJECT_DIR$/Test-Three" />
             <option value="$PROJECT_DIR$/Test-Two" />
+            <option value="$PROJECT_DIR$/annotation" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/compiler" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
