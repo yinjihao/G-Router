@@ -29,7 +29,6 @@ dependencies {
 //集成进来
 
 
-    annotationProcessor project(path: ':compiler')
 
     implementation project(path: ':Test-One')
     implementation project(path: ':Test-Two')
